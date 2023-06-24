@@ -1,23 +1,16 @@
-# Welcome to **minipopstar**
+# Welcome to **Murai**
 
-<img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
-  <p>
-
-Creative, Passionate, and Efficient Full-Stack Blockchain developer. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Leaded successful transition from MEAN & MERN Stack to Web3 & Cryptocurrency Stack to improve Web3.0 system performance which is the focus and the future of our life, so for now implemented Staking Platform, DEX, Bridge, NFT Marketplaces by using Web3 libraries, Solidity and Rust.
-Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks.
-
-</p>
 <p align="center">
-  <a href="https://github.com/minipopstar">
+  <a href="https://github.com/muraidev">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Full-Stack%20Blockchain%20Developer;&center=true&width=800&height=45">
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=minipopstar&theme=merko&layout=compact&hide_border=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minipopstar&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=muraidev&theme=merko&layout=compact&hide_border=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muraidev&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true)
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=minipopstar.minipopstar" />
-<img align="right" src="https://img.shields.io/github/followers/minipopstar?label=Follow&style=social" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=muraidev.muraidev" />
+<img align="right" src="https://img.shields.io/github/followers/muraidev?label=Follow&style=social" />
 <h1 align="center"></h1>
 
 ## **𝐒𝐤𝐢𝐥𝐥𝐬**
